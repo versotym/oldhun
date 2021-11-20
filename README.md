@@ -1,5 +1,10 @@
-# oldhun
-## Replication code for Maróthy, Seláf, Plecháč: Rhyming in Sixteenth-Century Hungarian Historical Songs: A Pilot Study
+Replication code for 
+
+----
+
+S. Maróthy, L. Seláf, P. Plecháč (forthcoming). Rhyming in Sixteenth-Century Hungarian Historical Songs: A Pilot Study. In Tackling the Toolkit, Plotting Poetry through Computational Literary Studies. Prague: ICL.
+
+----
 
 **src** directory contains raw texts in txt.
 
